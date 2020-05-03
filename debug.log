@@ -1,0 +1,10 @@
+[0502/012549.535:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir5524_1223813015\Crashpad: The system cannot find the file specified. (0x2)
+[0502/120803.446:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir4208_1159813246\Crashpad: The system cannot find the file specified. (0x2)
+[0502/122006.231:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir16436_498854980\Crashpad: The system cannot find the file specified. (0x2)
+[0502/123342.116:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir18360_34178693\Crashpad: The system cannot find the file specified. (0x2)
+[0502/154936.122:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir10708_1864222351\Crashpad: The system cannot find the file specified. (0x2)
+[0502/163738.402:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir18148_432504440\Crashpad: The system cannot find the file specified. (0x2)
+[0502/180208.189:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0502/184330.619:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SHREEN~1.KOK\AppData\Local\Temp\scoped_dir16904_606575099\Crashpad: The system cannot find the file specified. (0x2)
+[0503/005011.812:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0503/005011.812:ERROR:exception_snapshot_win.cc(98)] thread ID 9572 not found in process

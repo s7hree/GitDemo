@@ -8,7 +8,7 @@ describe('Finding elements using Protractor', function(){
     })
 
     afterEach(function(){
-        console.log("Test is completed in develop branch.....");
+        console.log("Test is completed in develop branch - new file.....");
     })
 
     //data stores atual data, description stores sub-object name.

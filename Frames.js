@@ -12,5 +12,13 @@ describe('Frames Demo...',function(){
         })
     
     })
+
+    it('Hello...', function(){
+		console.log("Hello...")
+	})
+
+	it('Hi...', function(){
+		console.log("Hi...")
+	})
 	
 })

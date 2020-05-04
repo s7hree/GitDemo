@@ -17,5 +17,15 @@ describe('Protractor S1',function(){
 	it('Hi...', function(){
 		console.log("Hi...")
 	})
+
+
+
+	it('HHello...', function(){
+		console.log("Hello...")
+	})
+
+	it('HHi...', function(){
+		console.log("Hi...")
+	})
 	
 })
